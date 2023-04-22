@@ -1,5 +1,5 @@
 # Resources
-Including essential resources that makes life somewhat easier for learning P4
+Including essential resources that make life somewhat easier for learning P4
 
 <li>P4-learning Wiki: https://github.com/nsg-ethz/p4-learning/wiki/
 <br>
