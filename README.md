@@ -1,6 +1,5 @@
 # Resources
-Including essential resources that make life somewhat easier for learning P4
-
+Some helpful ones
 <li>P4-learning Wiki: https://github.com/nsg-ethz/p4-learning/wiki/
 <br>
 <li>The BMv2 Simple Switch target: https://github.com/p4lang/behavioral-model/blob/main/docs/simple_switch.md
