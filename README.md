@@ -16,6 +16,6 @@ https://nsg-ethz.github.io/p4-utils/p4utils.utils.thrift_API.html#p4utils.utils.
 <li>simple_switch_CLI: https://github.com/p4lang/behavioral-model/blob/main/docs/runtime_CLI.md#table_add
 <li>Scapy documentations (for writing send.py & receive.py): https://scapy.readthedocs.io/en/latest/
 https://scapy.readthedocs.io/en/latest/api/scapy.sendrecv.html
-
+<li>P4-Specification (cú pháp, các câu lệnh P4): https://p4.org/p4-spec/docs/P4-16-v1.2.2.pdf
 
 
